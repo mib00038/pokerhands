@@ -1,0 +1,9 @@
+{
+  "name": "compare-poker-hands",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "lodash.sortby": "^4.7.0"
+  }
+}
