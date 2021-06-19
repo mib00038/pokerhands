@@ -1,5 +1,9 @@
 import sortBy from 'lodash.sortby'
 
+const testing = {
+	A: 1,
+	B: 2
+}
 export const Result = {
 	WIN: 1,
 	LOSS: 2,
