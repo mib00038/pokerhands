@@ -101,3 +101,4 @@ export default class PokerHand {
 	
 	compareWith = (other) => comparePokerHands(this.hand, other.hand)
 }
+
